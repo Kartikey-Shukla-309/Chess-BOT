@@ -16,6 +16,8 @@ This project is solely based on the intution part using CNNs. Applying 'Monte-Ca
 <img width="1359" height="779" alt="image" src="https://github.com/user-attachments/assets/717f13ff-92e0-4d6d-84d1-12fd0c3de4e6" />
 
 
+
+
 **DATASET -** 
 Kaggle 'Chess Games' dataset: https://www.kaggle.com/datasets/arevel/chess-games
 
