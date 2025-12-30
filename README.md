@@ -23,7 +23,7 @@ Kaggle 'Chess Games' dataset: https://www.kaggle.com/datasets/arevel/chess-games
 
 **PLAY WITH Chess_BOT -**
 1. Click the link below to open the Kaggle notebook
-2. On right panel of notebook go to 'Select options' and enable 'Internet on'
+2. On right panel of notebook go to 'Session options' and enable 'Internet on'
 3. Run all cells and play!
 
   PLAY Chess_BOT - https://www.kaggle.com/code/kartikeyshukla309/chess-bot-3-final-gameplay
