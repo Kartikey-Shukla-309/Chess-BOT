@@ -1,0 +1,7 @@
+python
+numpy
+pandas
+tensorflow
+keras
+python-chess
+ipywidgets
