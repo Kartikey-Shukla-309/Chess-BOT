@@ -8,7 +8,7 @@ Next comes the search algorithm which is similar to 'move calculation' which hum
 
 Intution is neceessary for fast response to the position and Calculation takes time but guarantees the best(or good) move which may not always be the case with intutive moves.
 
-This project is solely based on the intution part using CNNs. Applying 'Monte-Carlo Tree Search' is one the future aspect to strengthen the engine.
+This project is solely based on the intution part using CNNs. Applying 'Monte-Carlo Tree Search' is one of the future aspect to strengthen the engine.
 
 <img width="1359" height="773" alt="image" src="https://github.com/user-attachments/assets/aae813e2-4640-4821-be6e-736a61e2afae" />
 <img width="1355" height="786" alt="image" src="https://github.com/user-attachments/assets/8e1463fe-b4cc-43ee-b2d5-4024939a436b" />
@@ -23,10 +23,15 @@ Kaggle 'Chess Games' dataset: https://www.kaggle.com/datasets/arevel/chess-games
 
 **PLAY WITH Chess_BOT -**
 1. Click the link below to open the Kaggle notebook
-2. On right panel of notebook go to 'Session options' and enable 'Internet on'
-3. Run all cells and play!
+2. Sign in with your Kaggle account
+3. On right panel of notebook go to 'Session options' and enable 'Internet on'
+4. Run all cells and play!
 
   PLAY Chess_BOT - https://www.kaggle.com/code/kartikeyshukla309/chess-bot-3-final-gameplay
+
+**FUTURE ASPECTS -**
+1. Applying MCTS (Monte-Carlo Tree Search) to enhance the game of the engine.
+2. Adding a "Blind-fold Mode" using speech recognition and NLP to improve users board visualisation ability.
 
 **REFERENCES -**
 1. Research paper on "Predicting Moves in Chess using Convolutional Neural Networks" by Barak Oshri and Nishith Khandwala, Stanford University.
